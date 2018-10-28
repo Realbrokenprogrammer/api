@@ -1,0 +1,33 @@
+{
+	"events": [
+		{
+			"title": "last Some title",
+			"description": "last description",
+			"url": "https://github.com/Realbrokenprogrammer/schedule",
+			"days": [7],
+			"time": "00:00"
+		},
+		{
+			"title": "Some title",
+			"description": "description",
+			"url": "https://github.com/Realbrokenprogrammer/schedule",
+			"days": [1, 2],
+			"time": "00:00"
+		},
+		{
+			"title": "2nd  title",
+			"description": "2nd description",
+			"url": "https://github.com/Realbrokenprogrammer/schedule",
+			"days": [3],
+			"time": "01:00"
+		},
+		{
+			"title": "3rd Some title",
+			"description": "3rd description",
+			"url": "https://github.com/Realbrokenprogrammer/schedule",
+			"days": [4, 5],
+			"time": "00:00"
+		}
+	],
+	"timezone": "UTC+1"
+}
