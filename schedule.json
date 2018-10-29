@@ -27,6 +27,13 @@
 			"url": "https://github.com/Realbrokenprogrammer/schedule",
 			"days": [4, 5],
 			"time": "00:00"
+		},
+		{
+			"title": "6th Some title",
+			"description": "6th description",
+			"url": "https://github.com/Realbrokenprogrammer/schedule",
+			"days": [6],
+			"time": "23:00"
 		}
 	],
 	"timezone": "UTC+1"
