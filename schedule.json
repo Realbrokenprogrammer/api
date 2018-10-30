@@ -1,39 +1,39 @@
 {
 	"events": [
 		{
-			"title": "last Some title",
-			"description": "last description",
-			"url": "https://github.com/Realbrokenprogrammer/schedule",
+			"title": "Programming books",
+			"description": "This day we'll spend time going through programming books and their exercises. This will include learning new technologies, languages and ideas.",
+			"url": "https://github.com/brokenprogrammer/programming-exercises",
 			"days": [7],
-			"time": "00:00"
+			"time": "15:00"
 		},
 		{
-			"title": "Some title",
-			"description": "description",
-			"url": "https://github.com/Realbrokenprogrammer/schedule",
-			"days": [1, 2],
-			"time": "00:00"
+			"title": "BrokenInformant",
+			"description": "A productivity tool written in F# used to submit your TODOs as GitHub issues.",
+			"url": "https://github.com/brokenprogrammer/BrokenInformant",
+			"days": [1, 3],
+			"time": "18:00"
 		},
 		{
-			"title": "2nd  title",
-			"description": "2nd description",
+			"title": "Schedule website",
+			"description": "During this stream I'll be working on improving this website containing the schedule.",
 			"url": "https://github.com/Realbrokenprogrammer/schedule",
-			"days": [3],
-			"time": "01:00"
+			"days": [2],
+			"time": "18:00"
 		},
 		{
-			"title": "3rd Some title",
-			"description": "3rd description",
-			"url": "https://github.com/Realbrokenprogrammer/schedule",
-			"days": [4, 5],
-			"time": "00:00"
+			"title": "RapidTunes",
+			"description": "Music application written in Java with the goal to bring as many music sources as possible together.",
+			"url": "https://github.com/brokenprogrammer/RapidTunes",
+			"days": [4, 6],
+			"time": "18:00"
 		},
 		{
-			"title": "6th Some title",
-			"description": "6th description",
-			"url": "https://github.com/Realbrokenprogrammer/schedule",
-			"days": [6],
-			"time": "23:00"
+			"title": "F# Compiler",
+			"description": "I am working on an issue for the F# compiler, if there is something to do this day will be reserved for work on that. If not we'll work on some random stuff this day.",
+			"url": "https://github.com/Microsoft/visualfsharp/pull/4511",
+			"days": [5],
+			"time": "16:00"
 		}
 	],
 	"timezone": "UTC+1"
